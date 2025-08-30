@@ -1,1 +1,1 @@
-# genai-Business-NLP-System-with-Gemini-API
+# Business-NLP-System-with-Gemini-API
